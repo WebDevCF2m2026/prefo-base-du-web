@@ -1,7 +1,29 @@
 # Préfo-base-du-web
-### Internet et le web - Introduction.
 
-## Internet, c'est quoi ?
+## Internet et le web - Introduction.
+
+
+### Historique de l'internet
+
+Vous l'aviez compris, le web n'a pas émergé instantanément. Voici pour mémoire les principales étapes de son histoire :
+
+**1969** : création de l’ancêtre d’Internet, appelé alors **ARPAnet**. C’est un réseau **militaire** qui se veut décentralisé (autrement dit, il n’a pas de lieu de commande central). Le réseau a ensuite évolué pour devenir un lieu d’**échange universitaire** avant de devenir progressivement grand public sous le nom d’Internet.
+
+#### Arpanet en 1974
+![Arpanet 1974](datas\Arpanet_1974.svg.png)
+
+**1972** : apparition des e-mails pour échanger des messages.
+
+**1983** : ARPANET adopte le TCP/IP qui sera la base d'Internet
+
+**1990** : Arpanet ferme officiellement, et se transforme en internet civile.
+
+**1991** : lancement du Web public, pour afficher des pages d’information, créé par Tim Berners-Lee. C’est à ce moment que la notion de « pages web » et de « liens hypertextes » (permettant de naviguer entre chaque page) apparaît. C’est la naissance de la toile !
+
+**1994** : création du W3C (World Wide Web Consortium), organisme qui a pris le relais de Tim Berners-Lee pour faire évoluer les technologies du web (HTML, CSS, PNG, XML et autres noms barbares).
+
+
+
 ### La définition technique : Le "Réseau des Réseaux"
 
 Fondamentalement, Internet n'est pas un réseau unique, mais **une fédération de milliers de réseaux indépendants (appelés AS ou Autonomous Systems) qui acceptent de s'interconnecter**.
@@ -30,7 +52,7 @@ La suite de protocoles **TCP/IP** : Ce sont les langages de communication (proto
 
     SSH (Secure Shell) : Protocole de connexion sécurisée.
 
-    DNS (Domain Name System) : Protocole de résolution de nom.
+    DNS (Domain Name System) : Protocole de résolution de nom de domaine.
 
     etc ...
 
