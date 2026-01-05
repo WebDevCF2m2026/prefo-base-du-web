@@ -10,7 +10,7 @@ Vous l'aviez compris, le web n'a pas émergé instantanément. Voici pour mémoi
 **1969** : création de l’ancêtre d’Internet, appelé alors **ARPAnet**. C’est un réseau **militaire** qui se veut décentralisé (autrement dit, il n’a pas de lieu de commande central). Le réseau a ensuite évolué pour devenir un lieu d’**échange universitaire** avant de devenir progressivement grand public sous le nom d’Internet.
 
 #### Arpanet en 1974
-![Arpanet 1974](datas\Arpanet_1974.svg.png)
+![Arpanet 1974](datas/Arpanet_1974.svg.png)
 
 **1972** : apparition des e-mails pour échanger des messages.
 
