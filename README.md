@@ -29,3 +29,8 @@ La suite de protocoles **TCP/IP** : Ce sont les langages de communication (proto
     IMAP (Internet Message Access Protocol) : Protocole d'accès aux courriels.
 
     SSH (Secure Shell) : Protocole de connexion sécurisée.
+
+    DNS (Domain Name System) : Protocole de résolution de nom.
+
+    etc ...
+
