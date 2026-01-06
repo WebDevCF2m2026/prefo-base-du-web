@@ -32,15 +32,19 @@ Fondamentalement, Internet n'est pas un réseau unique, mais **une fédération 
 
 Le terme vient de Inter-connected Networks. Pour que ces réseaux hétérogènes (fibres transatlantiques, Wi-Fi domestique, 4G, réseaux d'entreprise) puissent communiquer, ils reposent sur deux piliers inventés dans les années 1970 (DARPA) :
 
-La **commutation de paquets (Packet Switching)** : Contrairement au téléphone analogique (circuit dédié), les données sont découpées en petits morceaux (**paquets**). Chaque paquet peut emprunter une route différente pour arriver à destination où ils sont réassemblés. C'est ce qui rend le réseau résilient.
+### Commutation de paquets (Packet Switching)
 
 ![Commutation de paquets](datas/paquets.png)
+
+Contrairement au téléphone analogique (circuit dédié), les données sont découpées en petits morceaux (**paquets**). Chaque paquet peut emprunter une route différente pour arriver à destination où ils sont réassemblés. C'est ce qui rend le réseau résilient.
+
+
 
 La suite de protocoles **TCP/IP** : Ce sont les langages de communication (protocoles) qui permettent de transmettre les données.
 
 **IP (Internet Protocol)** : Gère l'adressage (Où aller ?). Chaque machine a une adresse unique (IPv4 ou IPv6).
 
-**TCP (Transmission Control Protocol)** : Gère la fiabilité (Est-ce que tout est arrivé ?). Il établit la connexion et vérifie l'intégrité des données.
+**TCP (Transmission Control Protocol)** : Gère la fiabilité (Est-ce que tout est arrivé ?). Il établit la connexion et vérifie l'intégrité des données. `TCP/IP` est devenu le standard mondial pour les communications Internet, permettant à des réseaux hétérogènes de communiquer de manière efficace, standardisée et fiable, grâce à son architecture en couches. 
 
 ### Les protocoles principaux pour utiliser Internet
 
@@ -60,5 +64,5 @@ La suite de protocoles **TCP/IP** : Ce sont les langages de communication (proto
 
     DNS (Domain Name System) : Protocole de résolution de nom de domaine.
 
-    etc ...
+ ![protocoles](datas/protocoles.png)
 
