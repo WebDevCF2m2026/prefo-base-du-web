@@ -18,9 +18,15 @@ Vous l'aviez compris, le web n'a pas émergé instantanément. Voici pour mémoi
 
 **1990** : Arpanet ferme officiellement, et se transforme en internet civile.
 
-**1991** : lancement du Web public, pour afficher des pages d’information, créé par **Tim Berners-Lee**. C’est à ce moment que la notion de « pages web » et de « liens hypertextes » (permettant de naviguer entre chaque page) apparaît. C’est la naissance de la toile !
 
-**1994** : création du **W3C (World Wide Web Consortium)** - [W3C](https://www.w3.org/), organisme qui a pris le relais de **Tim Berners-Lee** pour faire évoluer les technologies du web (HTML, CSS, PNG, XML et autres noms barbares). 
+
+**1991** : lancement du Web public, pour afficher des pages d’information, créé par **Tim Berners-Lee** , travaillant au **CERN (Centre européen pour la recherche nucléaire)** sous le nom de **World Wide Web** (Le fameux `www` dans les URLs).
+ 
+![EU](datas/eu.png)
+
+C’est à ce moment que la notion de « pages web » et de « liens hypertextes » (permettant de naviguer entre chaque page) apparaît. C’est la naissance de la toile !
+
+**1994** : création du **W3C (World Wide Web Consortium)** - [W3C](https://www.w3.org/), organisme qui a pris le relais de **Tim Berners-Lee** pour faire évoluer les technologies du web (HTML, CSS, PNG, XML et autres formats de fichiers). 
 
 
 
