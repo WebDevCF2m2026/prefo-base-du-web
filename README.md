@@ -12,19 +12,21 @@ Vous l'aviez compris, le web n'a pas émergé instantanément. Voici pour mémoi
 #### Arpanet en 1974
 ![Arpanet 1974](datas/Arpanet_1974.svg.png)
 
-**1972** : apparition des e-mails pour échanger des messages.
+**1972** : apparition des e-mails `@` pour échanger des messages.
 
-**1983** : ARPANET adopte le TCP/IP qui sera la base d'Internet
+**1983** : ARPANET adopte le **TCP/IP** qui sera la base d'Internet - [Wikipédia TCP/IP](https://fr.wikipedia.org/wiki/TCP/IP)
 
 **1990** : Arpanet ferme officiellement, et se transforme en internet civile.
 
 **1991** : lancement du Web public, pour afficher des pages d’information, créé par **Tim Berners-Lee**. C’est à ce moment que la notion de « pages web » et de « liens hypertextes » (permettant de naviguer entre chaque page) apparaît. C’est la naissance de la toile !
 
-**1994** : création du **W3C (World Wide Web Consortium)**, organisme qui a pris le relais de **Tim Berners-Lee** pour faire évoluer les technologies du web (HTML, CSS, PNG, XML et autres noms barbares).
+**1994** : création du **W3C (World Wide Web Consortium)** - [W3C](https://www.w3.org/), organisme qui a pris le relais de **Tim Berners-Lee** pour faire évoluer les technologies du web (HTML, CSS, PNG, XML et autres noms barbares). 
 
 
 
 ### La définition technique : Le "Réseau des Réseaux"
+
+![Réseau des réseaux](datas/reseau.png)
 
 Fondamentalement, Internet n'est pas un réseau unique, mais **une fédération de milliers de réseaux indépendants (appelés AS ou Autonomous Systems) qui acceptent de s'interconnecter**.
 
