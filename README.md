@@ -34,6 +34,8 @@ Le terme vient de Inter-connected Networks. Pour que ces réseaux hétérogènes
 
 La **commutation de paquets (Packet Switching)** : Contrairement au téléphone analogique (circuit dédié), les données sont découpées en petits morceaux (**paquets**). Chaque paquet peut emprunter une route différente pour arriver à destination où ils sont réassemblés. C'est ce qui rend le réseau résilient.
 
+![Commutation de paquets](datas/paquets.png)
+
 La suite de protocoles **TCP/IP** : Ce sont les langages de communication (protocoles) qui permettent de transmettre les données.
 
 **IP (Internet Protocol)** : Gère l'adressage (Où aller ?). Chaque machine a une adresse unique (IPv4 ou IPv6).
