@@ -50,7 +50,7 @@ La suite de protocoles **TCP/IP** : Ce sont les langages de communication (proto
 
     HTTP (Hypertext Transfer Protocol) : Protocole de communication entre un navigateur et un serveur web.
     
-    HTTPS (Hypertext Transfer Protocol Secure) : Version sécurisée de HTTP.
+    HTTPS (Hypertext Transfer Protocol Secure) : Version sécurisée de HTTP pour le web.
     
     FTP (File Transfer Protocol) : Protocole de transfert de fichiers.
     
@@ -77,3 +77,13 @@ On nomme cela un **nom de domaine** nous donnant une **URL (Uniform Resource Loc
 On utilise le **DNS (Domain Name System)** pour traduire un nom de domaine en adresse IP.
 
 ![dns](datas/dns.png)
+
+### Ne pas confondre les concepts
+
+En résumé, le **web** n'est pas **Internet**. Le **web** est un protocole de communication entre un navigateur et un serveur web. Les protocoles du web sont **HTTP** et **HTTPS**.
+
+Il existe d'autres protocoles pour utiliser Internet, comme **FTP** (File Transfer Protocol) ou **SMTP** (Simple Mail Transfer Protocol).
+
+Le **cloud** est un service de stockage et de traitement de données sur Internet. L'image d'un nuage est une métaphore pour représenter l'accessibilité des données sur Internet. Les fichiers stockés dans le cloud le sont sur des serveurs distants et peuvent être accédés depuis n'importe où dans le monde.
+
+![cloud](datas/cloud.png)
