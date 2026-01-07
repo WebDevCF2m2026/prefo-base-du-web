@@ -4,7 +4,7 @@
 
 ### Historique de l'internet
 
-Vous l'aviez compris, le web n'a pas émergé instantanément. Voici pour mémoire les principales étapes de son histoire :
+Vous le savez certainement, le web n'a pas émergé instantanément. Voici pour mémoire les principales étapes de son histoire :
 
 **1969** : création de l’ancêtre d’Internet, appelé alors **ARPAnet**. C’est un réseau **militaire** qui se veut décentralisé (autrement dit, il n’a pas de lieu de commande central). Le réseau a ensuite évolué pour devenir un lieu d’**échange universitaire** avant de devenir progressivement grand public sous le nom d’Internet.
 
@@ -81,6 +81,12 @@ On utilise le **DNS (Domain Name System)** pour traduire un nom de domaine en ad
 ### Ne pas confondre les concepts
 
 En résumé, le **web** n'est pas **Internet**. Le **web** est un protocole de communication entre un navigateur et un serveur web. Les protocoles du web sont **HTTP** et **HTTPS**.
+
+Il utilise des **liens hypertextes** pour naviguer entre les pages web.
+
+Le web peut être vu comme une toile : chaque page est un nœud de la toile et le fil entre deux nœuds représente le lien hypertexte entre deux pages.
+
+![web](datas/web.png)
 
 Il existe d'autres protocoles pour utiliser Internet, comme **FTP** (File Transfer Protocol) ou **SMTP** (Simple Mail Transfer Protocol).
 
