@@ -80,7 +80,9 @@ On utilise le **DNS (Domain Name System)** pour traduire un nom de domaine en ad
 
 ### Ne pas confondre les concepts
 
-En résumé, le **web** n'est pas **Internet**. Le **web** est un protocole de communication entre un navigateur et un serveur web. Les protocoles du web sont **HTTP** et **HTTPS**.
+**Internet** : C'est l'infrastructure (les routes, les câbles, le protocole IP).
+
+**Le web** : C'est un protocole de communication entre un navigateur et un serveur web. Les protocoles du web sont **HTTP** et **HTTPS**.
 
 Il utilise des **liens hypertextes** pour naviguer entre les pages web.
 
@@ -93,3 +95,17 @@ Il existe d'autres protocoles pour utiliser Internet, comme **FTP** (File Transf
 Le **cloud** est un service de stockage et de traitement de données sur Internet. L'image d'un nuage est une métaphore pour représenter l'accessibilité des données sur Internet. Les fichiers stockés dans le cloud le sont sur des serveurs distants et peuvent être accédés depuis n'importe où dans le monde.
 
 ![cloud](datas/cloud.png)
+
+### LA réalité physique et géographique d'Internet
+
+Les **câbles sous-marins** (Le système nerveux) : Environ **99% du trafic intercontinental** passe par des câbles à fibre optique posés au fond des océans, pas par des satellites. Ces câbles utilisent la lumière et le principe de la réflexion totale interne pour transporter des quantités massives de données.
+
+Géopolitique : Ces câbles suivent souvent les anciennes routes commerciales coloniales et sont des points de vulnérabilité stratégique majeurs (surveillance, sabotage).
+
+Les IXP (Internet Exchange Points) : Ce sont des bâtiments physiques où les différents réseaux (FAI comme Proximus, fournisseurs de contenu comme Google, hébergeurs comme AWS) se connectent physiquement pour échanger du trafic. [IXP](https://fr.wikipedia.org/wiki/Internet_Exchange_Point)
+
+Les Tier-1 Networks : Ce sont les "rois" d'Internet (ex: Lumen, Telia, Tata Communications). Ils possèdent les plus gros tuyaux mondiaux et ne paient personne pour transiter ; ils sont l'épine dorsale (Backbone). [Tier_1_network](https://en.wikipedia.org/wiki/Tier_1_network)
+
+Viennent ensuite les clients (Tier-2 et Tier-3) qui paient pour transiter sur les Tier-1 Networks et **nous sommes les clients finaux**.
+
+![cables](datas/cables.png)
