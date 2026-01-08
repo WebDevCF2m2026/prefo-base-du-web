@@ -109,3 +109,11 @@ Les Tier-1 Networks : Ce sont les "rois" d'Internet (ex: Lumen, Telia, Tata Comm
 Viennent ensuite les clients (Tier-2 et Tier-3) qui paient pour transiter sur les Tier-1 Networks et **nous sommes les clients finaux**.
 
 ![cables](datas/cables.png)
+
+## En complément 
+
+Suivez ce tutoriel sur [openclassrooms](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web).
+
+Il vous permettra de mieux comprendre les concepts backend, frontend etc...
+
+Bon boulot! 
